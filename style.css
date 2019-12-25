@@ -1,0 +1,37 @@
+.dd1{
+    width: 100px;
+    height: 100px;
+    background-color: orangered;
+    border-color: darkorange;
+    border-style: double;
+}
+
+
+.dd2{
+   width: 100px;
+    height: 100px;
+    background-color: green;
+    border-color: green;
+    border-style: double;
+}
+
+
+.dd3{
+     width: 100px;
+    height: 100px;
+    background-color: mediumblue;
+    border-color: blue;
+    border-style: double;
+    
+}
+.f2{
+width: 360px;
+    padding: 10% 0 0;
+    margin: auto;
+}
+.creation{
+   
+    margin-left: 40px;
+    margin-top: 40px;
+ 
+}
